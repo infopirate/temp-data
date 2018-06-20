@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1085px" height="716px" viewBox="0 0 1085 716" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Strategy-Search-Engine</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Strategy-Search-Engine" transform="translate(0.000000, 1.000000)">
+            <rect id="Rectangle-path" fill="#F57812" fill-rule="nonzero" opacity="0.62" x="0.19" y="28.58" width="435.64" height="485.34" rx="8.36"></rect>
+            <rect id="Rectangle-path" fill="#E5E5E5" fill-rule="nonzero" x="13.19" y="18.58" width="435.64" height="485.34" rx="8.36"></rect>
+            <rect id="Rectangle-path" fill="#B7B6B6" fill-rule="nonzero" x="12.43" y="14.12" width="437.51" height="34.61"></rect>
+            <rect id="Rectangle-path" fill="#A3A3A3" fill-rule="nonzero" x="12.43" y="28.99" width="437.77" height="25.07"></rect>
+            <circle id="Oval" fill="#F68528" fill-rule="nonzero" cx="30.58" cy="25.44" r="5.18"></circle>
+            <circle id="Oval" fill="#F68528" fill-rule="nonzero" cx="43.57" cy="25.44" r="5.18"></circle>
+            <rect id="Rectangle-path" fill="#F68528" fill-rule="nonzero" x="153.81" y="105.69" width="162.06" height="55.99"></rect>
+            <circle id="Oval" fill="#F68528" fill-rule="nonzero" cx="58.69" cy="25.44" r="5.18"></circle>
+            <rect id="Rectangle-path" fill="#F4F4F4" fill-rule="nonzero" x="236.96" y="23.52" width="199.53" height="13.34" rx="6.06"></rect>
+            <path d="M677.66,47 L536.09,140.68 L557.09,199.03 L528.59,248.87 L677.66,316.28 L677.66,47 Z" id="Shape" stroke="#9B9794" stroke-width="2.7" stroke-dasharray="10.8"></path>
+            <rect id="Rectangle-path" fill="#B7B6B6" fill-rule="nonzero" x="50.66" y="182.23" width="369.86" height="50.55" rx="25.27"></rect>
+            <rect id="Rectangle-path" fill="#6C6C6C" fill-rule="nonzero" x="98.59" y="245" width="275" height="5"></rect>
+            <rect id="Rectangle-path" fill="#363636" fill-rule="nonzero" transform="translate(534.352228, 346.727813) rotate(-32.710000) translate(-534.352228, -346.727813) " x="518.637228" y="272.227813" width="31.43" height="149" rx="15.715"></rect>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" opacity="0.21" cx="453.59" cy="197" r="97"></circle>
+            <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" opacity="0.16" points="446.33 53.97 13.83 502.46 442.61 498.21"></polygon>
+            <rect id="Rectangle-path" fill="#6C6C6C" fill-rule="nonzero" x="98.59" y="255" width="275" height="5"></rect>
+            <path d="M451.09,90 C388.96,90 338.59,139.25 338.59,200 C338.59,260.75 389,310 451.09,310 C513.18,310 563.59,260.75 563.59,200 C563.59,139.25 513.22,90 451.09,90 Z M452.95,288.35 C402.32,288.35 361.27,248.21 361.27,198.71 C361.27,149.21 402.27,109.07 452.95,109.07 C503.63,109.07 544.63,149.21 544.63,198.71 C544.63,248.21 503.58,288.35 452.94,288.35 L452.95,288.35 Z" id="Shape" fill="#363636" fill-rule="nonzero"></path>
+            <rect id="Rectangle-path" fill="#6C6C6C" fill-rule="nonzero" opacity="0.37" transform="translate(541.088058, 365.532648) rotate(-32.710000) translate(-541.088058, -365.532648) " x="537.033058" y="291.032648" width="8.11" height="149" rx="4.05"></rect>
+            <rect id="Rectangle-path" fill="#363636" fill-rule="nonzero" transform="translate(583.208870, 419.640585) rotate(-32.710000) translate(-583.208870, -419.640585) " x="558.56387" y="351.830585" width="49.29" height="135.62" rx="23.42"></rect>
+            <rect id="Rectangle-path" fill="#F57812" fill-rule="nonzero" opacity="0.62" x="662.66" y="14.08" width="323.56" height="344.13" rx="6.07"></rect>
+            <path d="M402.57,140 C402.57,140 419.4,133.53 415.52,144.53 C411.64,155.53 395.45,160.07 390.92,189.2 C390.92,189.2 378.62,200.2 375.38,187.91 C372.14,175.62 390.27,140.62 402.57,140 Z" id="Shape" fill="#F68528" fill-rule="nonzero"></path>
+            <rect id="Rectangle-path" fill="#E5E5E5" fill-rule="nonzero" x="676.16" y="12.58" width="323.56" height="344.13" rx="6.07"></rect>
+            <rect id="Rectangle-path" fill="#B7B6B6" fill-rule="nonzero" x="764.08" y="72.6" width="217.49" height="36.25"></rect>
+            <rect id="Rectangle-path" fill="#B7B6B6" fill-rule="nonzero" x="764.08" y="127.6" width="217.49" height="36.25"></rect>
+            <circle id="Oval" fill="#F68528" fill-rule="nonzero" cx="729.58" cy="86.1" r="25.5"></circle>
+            <circle id="Oval" fill="#F68528" fill-rule="nonzero" cx="729.58" cy="144.1" r="25.5"></circle>
+            <circle id="Oval" fill="#F68528" fill-rule="nonzero" cx="729.58" cy="200.96" r="25.5"></circle>
+            <rect id="Rectangle-path" fill="#B7B6B6" fill-rule="nonzero" x="764.08" y="180.1" width="217.49" height="36.25"></rect>
+            <text id="1" fill="#FFFFFF" font-family="Helvetica" font-size="45.17" font-weight="normal">
+                <tspan x="719.97" y="101.2">1</tspan>
+            </text>
+            <text id="2" fill="#FFFFFF" font-family="Helvetica" font-size="45.17" font-weight="normal">
+                <tspan x="717.7" y="156.12">2</tspan>
+            </text>
+            <text id="3" fill="#FFFFFF" font-family="Helvetica" font-size="45.17" font-weight="normal">
+                <tspan x="718.97" y="214.66">3</tspan>
+            </text>
+            <rect id="Rectangle-path" fill="#A3A3A3" fill-rule="nonzero" x="848.57" y="281.18" width="39" height="58.52"></rect>
+            <rect id="Rectangle-path" fill="#A3A3A3" fill-rule="nonzero" x="824.82" y="310.44" width="16.25" height="29.26"></rect>
+            <rect id="Rectangle-path" fill="#A3A3A3" fill-rule="nonzero" x="893.07" y="268.58" width="39" height="71.11"></rect>
+            <rect id="Rectangle-path" fill="#A3A3A3" fill-rule="nonzero" x="935.57" y="241.97" width="39" height="96.42"></rect>
+            <rect id="Rectangle-path" fill="#3A3633" fill-rule="nonzero" opacity="0.12" x="581.48" y="495.49" width="70.82" height="18.71" rx="7.12"></rect>
+            <rect id="Rectangle-path" fill="#3A3633" fill-rule="nonzero" opacity="0.12" x="680.47" y="438.49" width="319.29" height="18.71" rx="9.355"></rect>
+            <rect id="Rectangle-path" fill="#3A3633" fill-rule="nonzero" opacity="0.12" x="5.51" y="537.49" width="447.22" height="18.71" rx="9.355"></rect>
+            <rect id="Rectangle-path" fill="#B7B6B6" fill-rule="nonzero" x="69.61" y="459.58" width="319.48" height="7.5"></rect>
+            <path d="M698,289 L718.76,253 C706.956747,261.430646 699.384718,274.561332 698,289 Z M748,243.65 C746.42,243.65 744.86,243.73 743.33,243.86 L702.33,314.86 C703.108446,316.57834 703.990054,318.248052 704.97,319.86 L748.97,243.67 L748,243.65 Z M755.53,244.21 L708.76,325.21 C709.813478,326.533965 710.934987,327.802339 712.12,329.01 L760.5,245.2 C758.862084,244.769097 757.203264,244.42198 755.53,244.16 L755.53,244.21 Z M728.87,247.42 L698.22,300.5 C698.540907,302.891169 699.028765,305.256949 699.68,307.58 L735.68,245.15 C733.356686,245.73075 731.077606,246.475962 728.86,247.38 L728.87,247.42 Z M791.24,268.31 L747.49,344.1 L748,344.1 C749.726815,344.098399 751.452412,344.008281 753.17,343.83 L793.85,273.36 C793.076247,271.612439 792.204872,269.909753 791.24,268.26 L791.24,268.31 Z M778,334.1 C789.060711,325.859741 796.240213,313.428533 797.85,299.73 L778,334.1 Z M766.27,247 L716.62,333 C717.87,334 719.18,335 720.52,335.83 L770.69,249 C769.251425,248.25904 767.776197,247.591516 766.27,247 Z M784.18,259 L735.92,342.6 C737.568609,343.018003 739.237437,343.351769 740.92,343.6 L787.52,262.88 C786.474173,261.530056 785.359356,260.234999 784.18,259 Z M796.48,280.66 L760.83,342.41 C763.19346,341.781824 765.509293,340.986487 767.76,340.03 L797.87,287.88 C797.586221,285.442214 797.121607,283.028897 796.48,280.66 Z M775.81,252 L725.67,338.83 C727.116454,339.550878 728.598336,340.198366 730.11,340.77 L779.7,254.88 C778.446667,253.853333 777.15,252.893333 775.81,252 Z" id="Shape" fill="#B7B6B6" fill-rule="nonzero"></path>
+            <path d="M797.32,284 C792.646644,260.46742 771.992133,243.519163 748,243.53 L748,293.8 L706.21,321.72 C708.037315,324.459622 710.130815,327.012017 712.46,329.34 C724.336144,341.206645 741.350662,346.364314 757.816791,343.089161 C774.28292,339.814008 788.028746,328.538031 794.46,313.03 C796.9856,306.933599 798.283716,300.398844 798.28,293.8 C798.280709,290.509826 797.959174,287.227492 797.32,284 Z" id="Shape" fill="#F68528" fill-rule="nonzero"></path>
+            <path d="M663.24,0.61 L1013.07,0.61 L1013.07,371.22 L663.24,371.22 L663.24,0.61 Z" id="Rectangle-path" stroke="#9B9794" stroke-width="2.7" stroke-dasharray="10.8"></path>
+            <path d="M582.59,686.07 L645.58,551.08 L750.58,626.08 L839.07,507.58 L962.07,555.58 L1056.56,461.08" id="Shape" stroke="#9B9794" stroke-width="3.09" stroke-dasharray="12.38"></path>
+            <circle id="Oval" stroke="#F57812" stroke-width="5" fill="#6C6C6C" fill-rule="nonzero" cx="575.84" cy="686.82" r="24.75"></circle>
+            <circle id="Oval" stroke="#F57812" stroke-width="5" fill="#6C6C6C" fill-rule="nonzero" cx="1057.31" cy="455.83" r="24.75"></circle>
+        </g>
+    </g>
+</svg>
